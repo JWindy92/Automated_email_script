@@ -1,0 +1,4 @@
+Subject: Message subject here, leave two empty lines between subject and body
+
+
+Message body here
